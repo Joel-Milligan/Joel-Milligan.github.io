@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Joel Milligan
 
-You can use the [editor on GitHub](https://github.com/Joel-Milligan/Joel-Milligan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**.NET and Full Stack Web Developer**
 
-### Markdown
+Driven software developer with an agile mindset. Skilled in software development, especially in the use of .NET, React, and Azure DevOps.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Has a keen interest in many aspects of software engineering, such as Rust, Docker, and back-end web development.
 
-```markdown
-Syntax highlighted code block
+## Skills
 
-# Header 1
-## Header 2
-### Header 3
+- .NET
+- React
+- Azure DevOps
 
-- Bulleted
-- List
+## Education
 
-1. Numbered
-2. List
+University of Western Australia (2019 - 2021)
 
-**Bold** and _Italic_ and `Code` text
+Bachelor of Biomedical Science
 
-[Link](url) and ![Image](src)
-```
+Double Major in Medical Sciences and Computer Science
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Experience
 
-### Jekyll Themes
+### CBH Group
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joel-Milligan/Joel-Milligan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_December 2020 - Present_
 
-### Support or Contact
+Starting as an intern, and later becoming a full developer, I spent the first 2 years working on Dynamics 365 and Power Apps platforms, with a later focus on full stack development with React, working on CBH's Corporate Website and Customer Portals.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Delivered a multitude of projects of varying complexity, working personally with stakeholders and end users of the products I developed.
+
+## Projects
+
+### Resume Website (this one!)
+
+A reactive website leveraging GitHub Pages to demonstrate my skills, experience, and passions.
+
+[GitHub](https://github.com/Joel-Milligan/joel-milligan.github.io)
+
+### Links
+
+- [LinkedIn](https://www.linkedin.com/in/joel-milligan-14012417b/)
+- [GitHub](https://github.com/Joel-Milligan)
