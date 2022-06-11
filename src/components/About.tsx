@@ -1,6 +1,5 @@
 const About = () => (
     <>
-        <h1>Joel Milligan</h1>
         <p style={{ fontStyle: 'italic' }}>.NET and Full Stack Web Developer</p>
         <p>
             Driven software developer with an agile mindset. <br />
