@@ -8,9 +8,8 @@ interface Props {
 
 const Project = ({ title, github, children }: Props) => (
     <section>
-        <h3>{title}</h3>
+        <h3><a href={github}>{title}</a></h3>
         <p>{children}</p>
-        <a href={github}>GitHub</a>
     </section>
 );
 

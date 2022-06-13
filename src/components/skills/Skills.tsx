@@ -3,8 +3,8 @@ import Skill from "./Skill";
 const Skills = () => (
     <>
         <h2>Skills</h2>
-        <section style={{ display: 'flex', justifyContent: 'space-between' }}>
-            <div>
+        <section className="double-column">
+            <div className="project-column">
                 <h3>Programming Languages</h3>
                 <ul>
                     <Skill>.NET / C#</Skill>
@@ -16,7 +16,7 @@ const Skills = () => (
                 </ul>
             </div>
 
-            <div>
+            <div className="project-column">
                 <h3>Technologies</h3>
                 <ul>
                     <Skill>Dynamics 365</Skill>

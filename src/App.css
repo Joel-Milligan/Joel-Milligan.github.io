@@ -1,9 +1,14 @@
-.App {
+body {
+  color: white;
+  background-color: darkslategray;
+}
+
+.app {
   display: flex;
   flex-direction: column;
   align-content: center;
   gap: 0px;
-  margin: 0% 33%;
+  margin: 2vw 33vw;
   font-size: calc(10px + 1vmin);
 }
 
@@ -15,4 +20,35 @@ h3 {
 
 section {
   margin-left: 50px;
+}
+
+a {
+  color: burlywood;
+}
+
+.project-column {
+  width: 50%;
+  margin-left: 0px;
+}
+
+.double-column {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1400px) {
+  .app {
+    margin: 2vh 25vw;
+  }
+}
+
+@media (max-width: 1200px) {
+  .app {
+    margin: 2vh 15vw;
+  }
+
+  .project-column {
+    width: 100%;
+  }
 }
