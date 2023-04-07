@@ -1,3 +1,3 @@
 # Joel Milligan's Resume
 
-This is my resume, built with React and TypeScript, hosted using GitHub Pages.
+This is my resume, built with Next, hosted using GitHub Pages.
