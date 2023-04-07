@@ -15,7 +15,8 @@
     "dev": "next dev",
     "start": "next start",
     "build": "next build",
-    "predeploy": "npm run build",
+    "preinstall": "npx only-allow pnpm",
+    "predeploy": "pnpm build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
